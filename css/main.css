@@ -4212,14 +4212,14 @@ article.blog-single .blog-content {
             }
 
             .s-contact {
-                margin-top: 2em;
+                margin-top: 2.2em;
                 background-color: #151515;
                 background-image: url("../images/contact-bg.jpg");
                 background-repeat: no-repeat;
                 background-size: cover;
                 background-position: 0, center;
                 padding-top: 12.2rem;
-                padding-bottom: 10rem;  
+                padding-bottom: 6rem;  
                 color: rgba(255, 255, 255, 0.5);
                 position: relative;
                 background-attachment: scroll;
