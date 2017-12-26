@@ -4237,6 +4237,10 @@ article.blog-single .blog-content {
                 background-attachment: scroll;
                 z-index: -199;
             }
+
+            #gkm{
+                margin-top: 2em;
+            }
             
     #contact{
         margin-top: -8.3em;
