@@ -1797,9 +1797,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content h1 {
-    font-family: "librebaskerville-bold", serif;
+    font-family: "montserrat-semibold", sans-serif;
     color: #FFFFFF;
-    font-size: 1.3em!important;
+    font-size: 1.4em!important;
     line-height: 1.35;
     margin-top: 0;
     padding: 0.2em;
@@ -1839,7 +1839,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: absolute;
     left: .6rem;
     bottom: -13.2rem;
-    background-color: #000000b7;
+    background-color: #ffffffb7;
     padding: 1em;
 }
 
@@ -1848,7 +1848,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 1.1rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
-    color: #FFFFFF;
+    color: rgb(0, 0, 0);
     position: relative;
     display: inline-block;
     line-height: 3rem;
@@ -4234,4 +4234,8 @@ article.blog-single .blog-content {
 
 .foot{
     background-color: #000000;
+}
+
+#brand{
+    width: 3.6em;
 }
