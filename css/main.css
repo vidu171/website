@@ -3054,8 +3054,8 @@ html.no-csstransitions .home-content__main {
     padding-bottom: 10rem;  
     color: rgba(255, 255, 255, 0.5);
     position: relative;
-    background-attachment: fixed;
-    z-index: -6;
+    /* background-attachment: fixed; */
+    z-index: -199;
 }
 
 .s-contact .overlay {
@@ -3066,7 +3066,7 @@ html.no-csstransitions .home-content__main {
     height: 100%;
     opacity: .75;
     background-color: #070606;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     z-index: -199;
 }
 
