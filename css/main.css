@@ -4206,6 +4206,10 @@ article.blog-single .blog-content {
         top: 0;
         left: 0;
             }
+
+            #contact{
+                margin-top: -10em;
+            }
         }
 /* Animacion edificios */
 
