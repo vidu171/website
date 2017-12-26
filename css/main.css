@@ -4160,7 +4160,7 @@ article.blog-single .blog-content {
 
 
 #city{
-    background: url('https://github.com/vidu171/website/blob/master/back.svg');
+    background: url('https://raw.githubusercontent.com/vidu171/website/master/back.svg');
     height: 100%; 
     width: 100%;
     z-index: -5;
