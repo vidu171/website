@@ -1797,7 +1797,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content h1 {
-    font-family: "montserrat-semibold", sans-serif;
+    font-family: "montserrat-medium", sans-serif;
     color: #FFFFFF;
     font-size: 1.4em!important;
     line-height: 1.35;
