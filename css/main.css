@@ -3055,7 +3055,7 @@ html.no-csstransitions .home-content__main {
     color: rgba(255, 255, 255, 0.5);
     position: relative;
     background-attachment: fixed;
-    z-index: -200;
+    z-index: -4;
 }
 
 .s-contact .overlay {
