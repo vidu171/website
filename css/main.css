@@ -4181,7 +4181,7 @@ article.blog-single .blog-content {
     bottom: 0;
     left: 0;
     }
-    
+
 
     .sky{
         background-color: #052f47ff;
@@ -4210,7 +4210,7 @@ article.blog-single .blog-content {
         left: 0;
             }
 
-            .s-contact {
+            /* .s-contact {
                 background-color: #151515;
                 background-image: url("../images/contact-bg.jpg");
                 background-repeat: no-repeat;
@@ -4234,7 +4234,7 @@ article.blog-single .blog-content {
                 background-color: #070606;
                 background-attachment: scroll;
                 z-index: -199;
-            }
+            } */
             
 #contact{
     margin-top: -4.4em;
