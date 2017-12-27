@@ -4212,6 +4212,7 @@ article.blog-single .blog-content {
             position: absolute;
             background-attachment: scroll;
             bottom: 0;
+            margin-top: 2em;
             }
 .sky {
                 background-color: #052f47ff;
