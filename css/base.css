@@ -579,7 +579,7 @@ input[type="password"], textarea {
 /* stack columns on small mobile devices
  * ------------------------------------------------------------------- */
 
-@media only screen and (max-width: 400px) {
+/*@media only screen and (max-width: 400px) {
     .row .row {
         padding-left: 0;
         padding-right: 0;
@@ -598,7 +598,7 @@ input[type="password"], textarea {
         float: none;
     }
 }
-
+*/
 
 /* ===================================================================
  * # block grids - (_grid.scss)
@@ -768,7 +768,7 @@ input[type="password"], textarea {
 /* stack columns on small mobile devices
  * ------------------------------------------------------------------- */
 
-@media only screen and (max-width: 400px) {
+/*@media only screen and (max-width: 400px) {
     .stack .col-block {
         width: 100% !important;
         float: none !important;
@@ -777,7 +777,7 @@ input[type="password"], textarea {
         margin-right: 0;
     }
 }
-
+*/
 
 /* ===================================================================
  * # MISC  - (_grid.scss)
