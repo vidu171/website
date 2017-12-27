@@ -4291,6 +4291,10 @@ article.blog-single .blog-content {
     #contact{
         margin-top: -8.3em;
     } 
+
+    .skill{
+        height:2em;
+    }
  }
 /* Animacion edificios */
 
@@ -4354,6 +4358,10 @@ article.blog-single .blog-content {
     
 }
 
+.skill{
+    height: 4em;
+    opacity: 0.85;
+}
 
 /* .my-img .overlay {
     position: absolute;
