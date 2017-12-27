@@ -4186,7 +4186,7 @@ article.blog-single .blog-content {
 
     .sky{
         background-color: #052f47ff;
-        height: 80%; 
+        height: 76%; 
         width: 100%;
         z-index: -10;
         /*top: 9.5em;*/
@@ -4200,7 +4200,7 @@ article.blog-single .blog-content {
         @media only screen and (max-width: 500px) {
             .sky {
                 background-color: #052f47ff;
-        height: 90%; 
+        height: 100%; 
         width: 100%;
         z-index: -10;
         /*top: 9.5em;*/
