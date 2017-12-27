@@ -4213,11 +4213,9 @@ article.blog-single .blog-content {
     background-attachment: scroll;
     bottom: 0;
     }
-
-
-            .sky {
+.sky {
                 background-color: #052f47ff;
-        height: 110%; 
+        height: 100%; 
         width: 100%;
         z-index: -10;
         /*top: 9.5em;*/
