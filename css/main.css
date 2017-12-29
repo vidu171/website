@@ -4058,7 +4058,7 @@ article.blog-single .blog-content {
 
 
 #city{
-    background: url('../back.svg');
+    background: url('../back.png');
     height: 110%; 
     width: 100%;
     z-index: -7;
@@ -4090,7 +4090,7 @@ article.blog-single .blog-content {
         }
         @media only screen and (max-width: 500px) {
                 #city{
-            background: url('../back.svg');
+            background: url('../back.png');
             height: 88%; 
             width: 100%;
             z-index: -7;
