@@ -4059,7 +4059,7 @@ article.blog-single .blog-content {
 
 #city{
     background: url('../back.png');
-    height: 110%; 
+    height: 100%; 
     width: 100%;
     z-index: -7;
     background-position: 0px 0px;
@@ -4074,7 +4074,7 @@ article.blog-single .blog-content {
     }
 #city_back{
     background: url('../sky.png');
-    height: 110%; 
+    height: 100%; 
     width: 100%;
     z-index: -8;
     background-position: 0px 0px;
@@ -4112,7 +4112,7 @@ article.blog-single .blog-content {
             -moz-animation: animar_edificios 30s linear infinite;
             position: absolute;
             background-attachment: scroll;
-            bottom: 0;
+            top: 0;
             }
 
             
@@ -4127,7 +4127,7 @@ article.blog-single .blog-content {
     position: absolute;
     background-attachment: scroll;
     /*background-size: cover;*/
-    bottom: 0;
+    top: 0;
     }
         .sky {
         background-color: #052f47ff;
