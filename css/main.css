@@ -4101,7 +4101,7 @@ article.blog-single .blog-content {
         @media only screen and (max-width: 500px) {
                 #city{
             background: url('../back.png');
-            height: 100%; 
+            height: 110%; 
             width: 100%;
             z-index: -7;
             /*top: 9.5em;*/
@@ -4118,7 +4118,7 @@ article.blog-single .blog-content {
             
 #city_back{
     background: url('../sky.png');
-    height: 100%; 
+    height: 110%; 
     width: 100%;
     z-index: -8;
     /*top: 9.5em;*/
