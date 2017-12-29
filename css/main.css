@@ -4074,6 +4074,20 @@ article.blog-single .blog-content {
     bottom: 0;
     left: 0;
     }
+#city_back{
+    background: url('../sky.png');
+    height: 110%; 
+    width: 100%;
+    z-index: -8;
+    /*top: 9.5em;*/
+    background-position: 0px 0px;
+    background-repeat: repeat-x;
+    position: absolute;
+    background-attachment: fixed;
+    /*background-size: cover;*/
+    bottom: 0;
+    left: 0;
+    }
 
 
     .sky{
@@ -4104,6 +4118,22 @@ article.blog-single .blog-content {
             background-attachment: scroll;
             bottom: 0;
             }
+
+            
+#city_back{
+    background: url('../sky.png');
+    height: 110%; 
+    width: 100%;
+    z-index: -8;
+    /*top: 9.5em;*/
+    background-position: 0px 0px;
+    background-repeat: repeat-x;
+    position: absolute;
+    background-attachment: scroll;
+    /*background-size: cover;*/
+    bottom: 0;
+    left: 0;
+    }
         .sky {
         background-color: #052f47ff;
         height: 97%; 
