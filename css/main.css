@@ -2481,13 +2481,12 @@ html.no-csstransitions .home-content__main {
 
 .s-testimonials {
     background-color: #0D0A0B;
-    background-image: url("../images/testimonial-bg.jpg");
     background-repeat: no-repeat;
     background-position: center, center;
-    padding-top: 9.6rem;
-    padding-bottom: 10.2rem;
+    padding-bottom: 0.2rem!important;
     color: rgba(255, 255, 255, 0.5);
     position: relative;
+    height: 100%;
 }
 
 .s-testimonials .overlay {
@@ -2502,7 +2501,7 @@ html.no-csstransitions .home-content__main {
 
 .testimonials-header {
     text-align: center;
-    padding: 0 14rem;
+    padding: 8rem;
     position: relative;
 }
 
@@ -4248,6 +4247,17 @@ article.blog-single .blog-content {
 .cus{
     padding: 0;
 }
+
+.store{
+    font-size: 0.9em;
+    border: 2px solid;
+    padding-bottom: -4px;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 4px;
+
+}
+
 
 /* .my-img .overlay {
     position: absolute;
